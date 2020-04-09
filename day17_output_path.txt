@@ -1,0 +1,76 @@
+L,6,R,12,L,6,R,12,L,10,L,4,L,6,L,6,R,12,L,6,R,12,L,10,L,4,L,6,L,6,R,12,L,6,L,10,L,10,L,4,L,6,R,12,L,10,L,4,L,6,
+L,10,L,10,L,4,L,6,L,6,R,12,L,6,L,10,L,10,L,4,L,6,
+
+
+
+L,6,R,12,L,6,
+R,12,L,10,L,4,L,6,
+L,6,R,12,L,6,
+R,12,L,10,L,4,L,6,
+L,6,R,12,L,6,
+L,10,L,10,L,4,L,6,
+R,12,L,10,L,4,L,6,
+L,10,L,10,L,4,L,6,
+L,6,R,12,L,6,
+L,10,L,10,L,4,L,6,
+
+A,B,A,B,A,C,B,C,A,C
+
+L,6,R,12,L,6,
+R,12,L,10,L,4,L,6,
+L,10,L,10,L,4,L,6,
+=========================
+
+A
+Left 6
+Up 12
+Left 6
+Up 12
+
+B
+Left 10
+Down 4
+Right 6
+
+A
+Up 6
+Right 12
+Up 6
+Right 12
+
+B
+Up 10
+Left 4
+Down 6
+
+C
+Right 6
+Down 12
+Right 6
+Up 10
+
+B
+Left 10
+Down 4
+Right 6
+
+Down 12
+Right 10
+Up 4
+Left 6
+Down 10
+
+
+Right 10
+Up 4
+Left 6
+
+A
+Down 6
+Left 12
+Down 6
+Right 10
+
+Up 10
+Left 4
+Down 6
