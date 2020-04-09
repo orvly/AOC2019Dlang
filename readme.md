@@ -3,10 +3,13 @@
 This repo contains my solutions to the Advent of Code 2019 puzzles.
 I solved them all using the D programming language, mainly because I wanted to learn it.  This was also the first time I tried doing Advent of Code.
 
-I formatted and cleanted up all the solutions, and added some more comments.
+I formatted and cleaned up all the solutions, and added some more comments.
 
 All solutions are self contained, mainly because I wrote about half of them on my cell phone, online, on the bus, while commuting to work :-)
-I used the [ideone](https://ideone.com) website, which is very mobile friendly as opposed to most other "online IDEs" out there, and it supports dlang.  
+
+My "commute setup":
+* The [ideone](https://ideone.com) website, which is very mobile friendly as opposed to most other "online IDEs" out there, and it supports dlang.  
+
 However all the code must be self contained there.
 
 In order to achieve this:
